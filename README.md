@@ -16,3 +16,5 @@ Nagios username - nagiosadmin
 password	- nagios
 
 Installed and configured- DNS bind server,Samba Server, NFS4 server, Apache,Mysql,Php, Apache SSL, VNC server,  AAA Radius Server (Freeradius), SSH Server, Nagios Network Monitoring Server
+
+Materials : https://drive.google.com/folderview?id=0BxliB42HlluDaXp3akJnRFZ3VnM&usp=sharing
